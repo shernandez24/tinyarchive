@@ -17,9 +17,12 @@ p2{
 a{
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #3591A0;
-    font-size: large;
+    font-size: medium;
 }
 p3{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: larger;
+}
+li{
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
